@@ -1,0 +1,15 @@
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\bin\Debug\net6.0\SustanableProgrammingExam1CSharp.exe
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\bin\Debug\net6.0\SustanableProgrammingExam1CSharp.deps.json
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\bin\Debug\net6.0\SustanableProgrammingExam1CSharp.runtimeconfig.json
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\bin\Debug\net6.0\SustanableProgrammingExam1CSharp.dll
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\bin\Debug\net6.0\SustanableProgrammingExam1CSharp.pdb
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.csproj.AssemblyReference.cache
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.AssemblyInfoInputs.cache
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.AssemblyInfo.cs
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.dll
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\refint\SustanableProgrammingExam1CSharp.dll
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.pdb
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\SustanableProgrammingExam1CSharp.genruntimeconfig.cache
+C:\Users\loffe\OneDrive - Högskolan Kristianstad\Sustanable Programming\SustanableProgrammingExam1CSharp\SustanableProgrammingExam1CSharp\obj\Debug\net6.0\ref\SustanableProgrammingExam1CSharp.dll
